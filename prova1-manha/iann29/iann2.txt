@@ -1,0 +1,20 @@
+Área de Trabalho
+artmanha
+aula4-noite
+demo.txt
+Documentos
+Downloads
+errs.txt
+examples.desktop
+grepdata.txt
+iann2.txt
+iann-av1-labso
+Imagens
+labso
+Modelos
+Música
+out1.txt
+out2.txt
+out.txt
+Público
+Vídeos
